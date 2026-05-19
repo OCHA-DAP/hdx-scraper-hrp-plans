@@ -1,0 +1,8 @@
+source_url: "http://api.hpc.tools/v2/public/plan"
+
+dataset_info:
+  name: "humanitarian-response-plans"
+  title: "Humanitarian Response Plans"
+
+tags:
+  - humanitarian response plan-hrp

@@ -1,0 +1,11 @@
+license_id: other-pd-nr
+methodology: Registry
+caveats: "All currency amounts are in USD. The JSON resource contains complete information, while the CSV resource is a simplified version for convenient spreadsheet use."
+dataset_source: HPC Tools
+package_creator: HDX Data Systems Team
+private: False
+maintainer: 07e9f1c2-523e-4862-8318-525436c5df1c
+owner_org: ocha-fts
+data_update_frequency: 30
+notes: "A live list of all past and present _Humanitarian Response Plans,_ with identifiers for use in International Aid Transparency Initiative (IATI) reporting and elsewhere. \r\n\r\nThe UN and its partners prepare a Humanitarian Response Plan (HRP) plan for a protracted or sudden onset emergency that requires international humanitarian assistance. The plan articulates the shared vision of how to respond to the assessed and expressed needs of the affected population."
+subnational: "0"
